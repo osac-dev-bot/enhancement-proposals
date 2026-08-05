@@ -4,6 +4,10 @@ This repository is for proposing enhancements to the Open Sovereign AI Cloud (O-
 
 Enhancements may take multiple releases to ultimately complete and thus provide the basis of a roadmap. Enhancements may be filed from anyone in the community, but require consensus from domain specific project maintainers in order to implement and accept into the release.
 
+The hosted [API Spec (OpenAPI)](https://osac-project.github.io/osac/) documents
+the current fulfillment-service API and is a useful reference when writing
+enhancement proposals that involve API changes.
+
 [openshift enhancement proposals]: https://github.com/openshift/enhancements
 
 ## Is my proposed change an enhancement?
